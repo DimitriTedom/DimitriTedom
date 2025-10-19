@@ -1,15 +1,11 @@
 # Hi there! 👋 I'm Dimitri (SnowDev)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=SnowDev&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20JS%20Developer%20%7C%20UI/UX%20Designer%20%7C%20AWS%20Architect&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=SnowDev&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20JS%20Developer%20%7C%20UI/UX%20Designer%20%7C%20AWS%20Architect&descAlignY=51&descAlign=62&fontName=Bricolage%20Grotesque" />
 </div>
 
 <div align="center">
-  <img src="./snow.jpeg" alt="SnowDev Portrait" width="200" height="200" style="border-radius: 50%; border: 4px solid #667eea;" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+JS+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Graphic+Designer+%E2%9C%A8;AWS+Architect+Associate+%E2%98%81%EF%B8%8F;AI+%26+Automation+Specialist+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bricolage+Grotesque&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+JS+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Graphic+Designer+%E2%9C%A8;AWS+Architect+Associate+%E2%98%81%EF%B8%8F;AI+%26+Automation+Specialist+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <div align="center">
